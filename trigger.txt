@@ -1,1 +1,2 @@
 echo "Trigger build after adding _config.yml" >> docs/trigger.txt
+echo "Trigger workflow build" >> docs/trigger.txt
